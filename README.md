@@ -1,2 +1,1 @@
-# dj-resume
-Darren Jennings Resume
+# Darren Jennings Resume
